@@ -5,3 +5,9 @@
 
 ## 2. npm package install
 > 1번을 통해 받으신 소스폴더의 경로를 터미널 또는 cmd 에서 **npm install** 명령어를 통해 package.json에 기 등록되있던 모듈들을 다운로드 받습니다.
+
+## 3. App 실행
+> npm package install 완료 후 **npm run dev** 명령어를 통해 development 버전으로 앱을 실행합니다.
+
+## 4. App을 브라우저에서 확인
+> http://localhost:1234
